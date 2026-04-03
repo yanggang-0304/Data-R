@@ -1,0 +1,27 @@
+相关文献数据复现，项目创建于2026.4.3
+复现课题组文章
+[Combined effect of molybdenum and nitrogen fertilization on nitrogen metabolism and amino acid content in tobacco leaves](https://doi.org/10.3389/fagro.2024.1427571)
+考虑到该文献忠图片多以柱状图为结果较为简单，配合完成。
+
+在https://github.com/yanggang-0304/Data-R中上传相应R文件代码，仅依据代码便可以复现论文中的图片
+
+杨刚4月3日上传代码
+
+Free amino acid N content
+ 
+
+Dry weight 
+
+余琪
+
+Total free amino acid content
+
+N accumulation 
+
+Total amino acid content
+
+Soluble protein content
+
+N content
+
+Nitrate reductase activity
